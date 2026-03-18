@@ -10,6 +10,10 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me · Sobre mí**
 
+<picture>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhtZG93aXlzbWsxaWdxY3RsdHFtbWV6YWZmZW5jMWJocDAzbzB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250px">
+</picture>
+
 <br>
 
 **EN**
@@ -131,7 +135,7 @@
 <ul>
 
 <li>
-  <a href="mailto:martunahman@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#432e223137362d222b2e222d03242e222a2f6d202c2e">
     <img src="https://img.shields.io/badge/Gmail:%20martunahman-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </li>
@@ -162,7 +166,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.tenor.com/27188768/spongebob-work-computer.gif" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhtZG93aXlzbWsxaWdxY3RsdHFtbWV6YWZmZW5jMWJocDAzbzB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
   <br><br>
-  <sub>Made with ☕ by Martina</sub>
-</div>
