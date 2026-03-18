@@ -127,7 +127,7 @@
 
 -->
 
-## <b>Let's Connect · Contacto</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b>Let's Connect · Contacto</b>
 
 <br>
 
@@ -136,7 +136,7 @@
 
 <li>
   <a href="/cdn-cgi/l/email-protection#432e223137362d222b2e222d03242e222a2f6d202c2e">
-    <img src="https://img.shields.io/badge/Gmail:%20martunahman-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail:%20martunahman@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </li>
 
