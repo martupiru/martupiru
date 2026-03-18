@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me · Sobre mí**
+## **About me · Sobre mí**
 
 <picture>
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhtZG93aXlzbWsxaWdxY3RsdHFtbWV6YWZmZW5jMWJocDAzbzB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250px">
@@ -159,12 +159,4 @@
 </ul>
 </div>
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhtZG93aXlzbWsxaWdxY3RsdHFtbWV6YWZmZW5jMWJocDAzbzB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
-  <br><br>
